@@ -1,0 +1,2 @@
+192.168.66.6  www.cs.stonybrook.edu
+192.8.8.8     bcc.com
